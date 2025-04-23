@@ -1,7 +1,7 @@
--  Hi, I’m @Codexkiz
--  I’m interested in Web Development and AI
--  I’m currently learning Reactjs
--  I’m looking to collaborate on any kind of Front end development projects 
+-  Hi, I’m @Priyamvada
+-  I’m interested in Data Analytics & Data Science
+-  I’m currently learning Power BI
+-  I’m looking to collaborate on any kind of Data Analytics projects 
 -  How to reach me my email ID is - priyamvadapugalia111@gmail.com
 - 
 
